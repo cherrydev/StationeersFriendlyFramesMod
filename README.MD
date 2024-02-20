@@ -26,7 +26,7 @@ up venting my base to the outside is not part of the challenge I'm looking for.
 
 - First [install BepInEx](https://github.com/jixxed/StationeersMods) the same as how StationeersMod directs it. 
 You do not need to install StationeersMod.
-- Unzip the release archive into the `BepInEx\plugins\` directory.
+- Unzip the [release archive](https://github.com/cherrydev/StationeersFriendlyFramesMod/releases/latest) into the `BepInEx\plugins\` directory.
 - **IMPORTANT:** If loading up an old save for the first time switch into the F3 console and run the
 `recalculaterooms` command. This only needs to be done once.
 
